@@ -1,1 +1,12 @@
-[{"type": "dog", "name": "Jack", "commands": ["Sit", "LayDown"]}, {"type": "dog", "name": "Bono", "commands": ["Stay", "Bite"]}, {"type": "dog", "name": "Richi", "commands": ["Run", "Sit", "Voice"]}, {"type": "cat", "name": "Chaki", "commands": ["Climb"]}, {"type": "cat", "name": "Mars", "commands": ["Come", "Hide"]}, {"type": "hamster", "name": "Brix", "commands": ["Eat"]}, {"type": "hamster", "name": "Vegie", "commands": ["Eat", "Roll"]}, {"type": "horse", "name": "Mustang", "commands": ["Walk", "Fast", "Jump"]}, {"type": "horse", "name": "Marvin", "commands": ["Walk", "SpeedWalk", "Jump"]}, {"type": "donkey", "name": "Gibli", "commands": ["Walk"]}, {"type": "donkey", "name": "Dover", "commands": ["Walk", "Spin", "Up"]}, {"type": "cat", "name": "Furia", "commands": ["Scratch"]}]
+[{"type": "dog", "name": "Jack", "commands": ["Sit", "LayDown"]},
+  {"type": "dog", "name": "Bono", "commands": ["Stay", "Bite"]},
+  {"type": "dog", "name": "Richi", "commands": ["Run", "Sit", "Voice"]},
+  {"type": "cat", "name": "Chaki", "commands": ["Climb"]},
+  {"type": "cat", "name": "Mars", "commands": ["Come", "Hide"]},
+  {"type": "hamster", "name": "Brix", "commands": ["Eat"]},
+  {"type": "hamster", "name": "Vegie", "commands": ["Eat", "Roll"]},
+  {"type": "horse", "name": "Mustang", "commands": ["Walk", "Fast", "Jump"]},
+  {"type": "horse", "name": "Marvin", "commands": ["Walk", "SpeedWalk", "Jump"]},
+  {"type": "donkey", "name": "Gibli", "commands": ["Walk"]},
+  {"type": "donkey", "name": "Dover", "commands": ["Walk", "Spin", "Up"]},
+  {"type": "cat", "name": "Furia", "commands": ["Scratch"]}]
